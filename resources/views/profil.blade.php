@@ -989,7 +989,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/wale-minahasa.png" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="IMG_20171112_111916_HDR"
+                                            data-elementor-lightbox-title="wale minahasa"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc1LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcL0lNR18yMDE3MTExMl8xMTE5MTZfSERSLmpwZyIsInNsaWRlc2hvdyI6IjBhYTg1NzYifQ%3D%3D">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/wale-minahasa.png" data-width="300"
@@ -1000,7 +1000,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/jembatan.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="IMG_3374"
+                                            data-elementor-lightbox-title="jembatan"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTc0LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcL0lNR18zMzc0LmpwZyIsInNsaWRlc2hvdyI6IjBhYTg1NzYifQ%3D%3D">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/jembatan.jpg" data-width="225" data-height="300"
@@ -1011,7 +1011,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/Kolam4.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="DSC_0299"
+                                            data-elementor-lightbox-title="Kolam4"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTczLCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcL0RTQ18wMjk5LmpwZyIsInNsaWRlc2hvdyI6IjBhYTg1NzYifQ%3D%3D">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/Kolam4.jpg" data-width="300" data-height="169"
@@ -1022,7 +1022,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/Bangku1.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2021-09-17"
+                                            data-elementor-lightbox-title="Bangku1"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTcxLCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMjEtMDktMTcuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/Bangku1.jpg" data-width="225" data-height="300"
@@ -1033,7 +1033,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/foto10.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2021-07-17"
+                                            data-elementor-lightbox-title="foto10"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTcwLCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMjEtMDctMTcuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/foto10.jpg" data-width="300" data-height="225"
@@ -1044,7 +1044,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/foto4.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2021-07-17 (1)"
+                                            data-elementor-lightbox-title="foto4"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTY5LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMjEtMDctMTctMS5qcGciLCJzbGlkZXNob3ciOiIwYWE4NTc2In0%3D">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/foto4.jpg" data-width="300" data-height="225"
@@ -1055,7 +1055,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/foto13.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2021-04-17"
+                                            data-elementor-lightbox-title="foto13"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTY4LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMjEtMDQtMTcuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/foto13.jpg" data-width="225" data-height="300"
@@ -1066,7 +1066,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/foto14.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2021-01-14"
+                                            data-elementor-lightbox-title="foto14"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTY3LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMjEtMDEtMTQuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/foto14.jpg" data-width="300" data-height="169"
@@ -1076,7 +1076,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/Resort2.png" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2021-01-13"
+                                            data-elementor-lightbox-title="Resort2"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTY2LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMjEtMDEtMTMuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/Resort2.png" data-width="300" data-height="169"
@@ -1086,7 +1086,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/Kolam1.png" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2019-06-29"
+                                            data-elementor-lightbox-title="Kolam1"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTY1LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMTktMDYtMjkuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/Kolam1.png" data-width="300" data-height="170"
@@ -1097,7 +1097,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/foto6.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="Processed with VSCO with c1 preset"
+                                            data-elementor-lightbox-title="foto6"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTY0LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMTgtMDEtMjYuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/foto6.jpg" data-width="300" data-height="225"
@@ -1108,7 +1108,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/pemandangan2.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2018-01-26 (1)"
+                                            data-elementor-lightbox-title="pemandangan2"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTYzLCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMTgtMDEtMjYtMS5qcGciLCJzbGlkZXNob3ciOiIwYWE4NTc2In0%3D">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/pemandangan2.jpg" data-width="300"
@@ -1119,7 +1119,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/pemandangan3.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2017-08-26"
+                                            data-elementor-lightbox-title="pemandangan3"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTYyLCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMTctMDgtMjYtMi5qcGciLCJzbGlkZXNob3ciOiIwYWE4NTc2In0%3D">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/pemandangan3.jpg" data-width="300"
@@ -1130,7 +1130,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/kolamm.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2017-08-26 (1)"
+                                            data-elementor-lightbox-title="kolamm"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTYxLCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMTctMDgtMjYtMS5qcGciLCJzbGlkZXNob3ciOiIwYWE4NTc2In0%3D">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/kolamm.jpg" data-width="169" data-height="300"
@@ -1141,7 +1141,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/kolam3.jpeg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="2017-08-26"
+                                            data-elementor-lightbox-title="kolam3"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTQxLCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcLzIwMTctMDgtMjYuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/kolam3.jpeg" data-width="300" data-height="169"
@@ -1152,7 +1152,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/kinaarii.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="IMG-20241104-WA0024"
+                                            data-elementor-lightbox-title="kinaarii"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTA5LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcL0lNRy0yMDI0MTEwNC1XQTAwMjQtZTE3MzA3OTQzNzU3NzAuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/kinaarii.jpg" data-width="268" data-height="300"
@@ -1163,7 +1163,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/foto12.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="IMG-20241104-WA0023"
+                                            data-elementor-lightbox-title="foto12"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTA4LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcL0lNRy0yMDI0MTEwNC1XQTAwMjMtZTE3MzA3OTQyMzUzMzguanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/foto12.jpg" data-width="300" data-height="225"
@@ -1174,7 +1174,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/laut.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="IMG-20241104-WA0020"
+                                            data-elementor-lightbox-title="laut"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTA1LCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcL0lNRy0yMDI0MTEwNC1XQTAwMjAuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/laut.jpg" data-width="297" data-height="300"
@@ -1185,7 +1185,7 @@
                                         <a class="e-gallery-item elementor-gallery-item elementor-animated-content"
                                             href="img/pemandangan4.jpg" data-elementor-open-lightbox="yes"
                                             data-elementor-lightbox-slideshow="0aa8576"
-                                            data-elementor-lightbox-title="WhatsApp Image 2024-11-03 at 13.08.54_2d674681"
+                                            data-elementor-lightbox-title="pemandangan4"
                                             data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTEwLCJ1cmwiOiJodHRwczpcL1wvbGFtZXJyeXJlc29ydC5pZFwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzM2NlwvMjAyNFwvMTFcL1doYXRzQXBwLUltYWdlLTIwMjQtMTEtMDMtYXQtMTMuMDguNTRfMmQ2NzQ2ODEuanBnIiwic2xpZGVzaG93IjoiMGFhODU3NiJ9">
                                             <div class="e-gallery-image elementor-gallery-item__image"
                                                 data-thumbnail="img/pemandangan4.jpg" data-width="235"
